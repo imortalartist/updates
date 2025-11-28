@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "This Is Latest Version Of PixellaX.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
