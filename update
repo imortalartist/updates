@@ -1,11 +1,36 @@
 {
-  "appVersionCode": 20,
-  "title": "New Premium Version",
-  "htmlDescription": "<p style='text-align:center;font-size:15px;color:#dcdcdc;'>Enjoy faster performance and premium features.</p>",
-  "buttonText": "UPDATE NOW",
-  "cancelText": "NOT NOW",
-  "imageUrl": "https://yourserver.com/premium_banner.png",
-  "backgroundColor": "#101820",
-  "textColor": "#FFFFFF",
-  "cancelClosesApp": false
+  "showDialog": true,
+  "appVersionCode": 1,
+
+  "titleText": "🚀 New Update Available",
+  "titleTextColor": "#1E88E5",
+
+  "messageText": "A new version of this app is available with improved features and performance. Update now for the best experience!",
+  "messageTextColor": "#444444",
+
+  "bannerImage": "https://i.ibb.co/W6s0q7m/upgrade.png",
+
+  "updateButtonText": "Update Now",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#0D47A1",
+  "updateButtonGradientEndColor": "#1976D2",
+
+  "cancelButtonText": "Later",
+  "cancelClosesApp": false,
+  "cancelButtonGradientStartColor": "#E0E0E0",
+  "cancelButtonGradientEndColor": "#BDBDBD",
+
+  "dialogCornerRadius": 22,
+  "dialogBackgroundColor": "#FFFFFF",
+
+  "textGradientStartColor": "#1565C0",
+  "textGradientEndColor": "#5E92F3",
+
+  "showShimmerText": true,
+  "showButtonBounce": true,
+  "allowOutsideClose": false,
+  "closeOnBackPress": false,
+
+  "imageFallbackColor": "#1E88E5",
+  "showImageLoadFailedToast": false
 }
