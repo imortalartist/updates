@@ -1,36 +1,16 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-
-  "titleText": "🚀 New Update Available",
-  "titleTextColor": "#1E88E5",
-
-  "messageText": "A new version of this app is available with improved features and performance. Update now for the best experience!",
-  "messageTextColor": "#444444",
-
-  "bannerImage": "https://i.ibb.co/W6s0q7m/upgrade.png",
-
-  "updateButtonText": "Update Now",
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#0D47A1",
-  "updateButtonGradientEndColor": "#1976D2",
-
-  "cancelButtonText": "Later",
-  "cancelClosesApp": false,
-  "cancelButtonGradientStartColor": "#E0E0E0",
-  "cancelButtonGradientEndColor": "#BDBDBD",
-
-  "dialogCornerRadius": 22,
-  "dialogBackgroundColor": "#FFFFFF",
-
-  "textGradientStartColor": "#1565C0",
-  "textGradientEndColor": "#5E92F3",
-
-  "showShimmerText": true,
-  "showButtonBounce": true,
-  "allowOutsideClose": false,
-  "closeOnBackPress": false,
-
-  "imageFallbackColor": "#1E88E5",
-  "showImageLoadFailedToast": false
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": False,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
