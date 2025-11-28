@@ -1,21 +1,16 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-
-  "messageText": "A new version of this app is available. Please update to continue.",
-  
-  "updateButtonText": "Update Now",
+  "messageText": "Please Subscribe Our Channel.",
+  "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
-
-  "cancelButtonText": "Later",
-  "cancelClosesApp": false,
-
-  "dialogBackgroundColor": "#FFFFFF",
-  "updateButtonGradientStartColor": "#1565C0",
-  "updateButtonGradientEndColor": "#1E88E5",
-  "cancelButtonGradientStartColor": "#E0E0E0",
-  "cancelButtonGradientEndColor": "#BDBDBD",
-
-  "textGradientStartColor": "#1565C0",
-  "textGradientEndColor": "#1E88E5"
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": False,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
