@@ -1,16 +1,11 @@
 {
-  "showDialog": true,
-  "appVersionCode": 1,
-  "messageText": "This Is Latest Version Of PixellaX.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": False,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "appVersionCode": 20,
+  "title": "New Premium Version",
+  "htmlDescription": "<p style='text-align:center;font-size:15px;color:#dcdcdc;'>Enjoy faster performance and premium features.</p>",
+  "buttonText": "UPDATE NOW",
+  "cancelText": "NOT NOW",
+  "imageUrl": "https://yourserver.com/premium_banner.png",
+  "backgroundColor": "#101820",
+  "textColor": "#FFFFFF",
+  "cancelClosesApp": false
 }
